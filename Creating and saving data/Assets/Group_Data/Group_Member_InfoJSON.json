@@ -1,0 +1,24 @@
+{
+    "Group10": [
+        {
+            "name": "Christian",
+            "dateOfBirth": "20/01/2004",
+            "favouriteColour": "Blue"
+        },
+        {
+            "name": "Vahid",
+            "dateOfBirth": "11/05/2004",
+            "favouriteColour": "Black"
+        },
+        {
+            "name": "Asser",
+            "dateOfBirth": "12/01/1985",
+            "favouriteColour": "Red"
+        },
+        {
+            "name": "Meron",
+            "dateOfBirth": "23/10/2003",
+            "favouriteColour": "Blue/Purple"
+        }
+    ]
+}

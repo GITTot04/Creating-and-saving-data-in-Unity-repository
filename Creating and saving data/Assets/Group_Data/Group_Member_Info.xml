@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfGroupMember xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <GroupMember>
+    <name>Christian</name>
+    <dateOfBirth>20/01/2004</dateOfBirth>
+    <favouriteColour>Blue</favouriteColour>
+  </GroupMember>
+  <GroupMember>
+    <name>Vahid</name>
+    <dateOfBirth>11/05/2004</dateOfBirth>
+    <favouriteColour>Black</favouriteColour>
+  </GroupMember>
+  <GroupMember>
+    <name>Asser</name>
+    <dateOfBirth>12/01/1985</dateOfBirth>
+    <favouriteColour>Red</favouriteColour>
+  </GroupMember>
+  <GroupMember>
+    <name>Meron</name>
+    <dateOfBirth>23/10/2003</dateOfBirth>
+    <favouriteColour>Blue/Purple</favouriteColour>
+  </GroupMember>
+</ArrayOfGroupMember>
